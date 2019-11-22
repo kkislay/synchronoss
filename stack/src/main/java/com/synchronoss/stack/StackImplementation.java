@@ -1,10 +1,7 @@
 package com.synchronoss.stack;
 
-import com.synchronoss.stack.StackApi;
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
 
 public class StackImplementation implements StackApi {
     private List<String> stackList = new ArrayList<String>();
@@ -65,7 +62,7 @@ public class StackImplementation implements StackApi {
                 counter ++;
             }
 
-            //stackList.remove(search); This can also be used but it will start deleting elements from the list
+            //stackList.remove(search); This can also be used but it will start deleting elements from the stack
             i++;
             stack_size--;
         }

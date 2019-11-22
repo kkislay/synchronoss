@@ -1,11 +1,8 @@
 package com.synchronoss.stack;
 
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.JUnitCore;
-import org.junit.runner.Result;
 
 
 import static org.junit.Assert.assertEquals;
@@ -13,7 +10,7 @@ import static org.junit.Assert.assertTrue;
 
 public class TestStackAPI {
     private StackApi stack;
-    StackApi stack_blank;
+    private StackApi stack_blank;
     private String[] VALUES = {"000", "231", "23", "23", "23","58", "69", "100"};
 
     @Before
@@ -44,7 +41,6 @@ public class TestStackAPI {
     }
     @Test(expected = IllegalArgumentException.class)
     public void hasValueNegativeTest() {
-        assertTrue(stack.hasValue(""));
         assertTrue(stack.hasValue("-58"));
         assertTrue(stack.hasValue("abc"));
         assertTrue(stack.hasValue("23.89"));
@@ -57,14 +53,17 @@ public class TestStackAPI {
         stack.push("abc");
         stack.push("23.89");
     }
-    @Test(expected = IllegalArgumentException.class)
+    @Test(expected = Exception.class)
     public void peekNegativeTest() throws Exception {
         stack_blank.peek();
 
     }
 
+    // Deleting all the values in tear down method
     @After
     public void deleteVariables() {
         VALUES= new String[]{};
+        stack = null;
+        stack_blank = null;
     }
 }

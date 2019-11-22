@@ -49,7 +49,19 @@ public interface StackApi {
      */
 
     int count(String pattern) throws IllegalArgumentException;
+    /**
+     * Gets a count of the number of items on the stack
+     *
+     * @return
+     * @throws java.lang.Exception
+     */
 
     void pushall(String [] VALUE);
+    /**
+     * Pushes all the values from the list one by one
+     *
+     * @return
+     * @throws java.lang.Exception
+     */
 
 }
