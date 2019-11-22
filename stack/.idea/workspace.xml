@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f7a66d-4e06-4b36-b248-c11d61545aec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HowToRun" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stack/com/synchronoss/stack/StackImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stack/com/synchronoss/stack/StackImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/stack/com/synchronoss/stack/RunTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/stack/com/synchronoss/stack/RunTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/stack/com/synchronoss/stack/TestStackAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/stack/com/synchronoss/stack/TestStackAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HowToRun" beforeDir="false" afterPath="$PROJECT_DIR$/HowToRun" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/RunTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/RunTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/TestStackAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/TestStackAPI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,50 +29,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/synchronoss/stack/RunTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-147">
-              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.txt">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HowToRun">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="68">
+              <caret line="4" column="101" lean-forward="true" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -85,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/synchronoss/stack/TestStackAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="290">
+              <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,18 +91,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/RunTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/TestStackAPI.java" />
         <option value="$PROJECT_DIR$/HowToRun" />
+        <option value="$PROJECT_DIR$/src/test/java/com/synchronoss/stack/TestStackAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-10" />
     <option name="width" value="1932" />
-    <option name="height" value="1028" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -247,22 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStackAPI.negativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stack" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.synchronoss.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.synchronoss.stack" />
-      <option name="MAIN_CLASS_NAME" value="com.synchronoss.stack.TestStackAPI" />
-      <option name="METHOD_NAME" value="negativeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestStackAPI.peekNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stack" />
       <extension name="coverage">
@@ -295,13 +256,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStackAPI.valueDoesNotExistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.synchronoss.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.synchronoss.stack" />
+      <option name="MAIN_CLASS_NAME" value="com.synchronoss.stack.TestStackAPI" />
+      <option name="METHOD_NAME" value="valueDoesNotExistTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.RunTests" />
+        <item itemvalue="JUnit.TestStackAPI.valueDoesNotExistTest" />
         <item itemvalue="JUnit.TestStackAPI.peekNegativeTest" />
         <item itemvalue="JUnit.TestStackAPI.pushNegativeTest" />
         <item itemvalue="JUnit.TestStackAPI.hasValueNegativeTest" />
-        <item itemvalue="JUnit.TestStackAPI.negativeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -330,22 +307,17 @@
       <option name="project" value="LOCAL" />
       <updated>1574355514878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Stack code">
+      <created>1574380813045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574380813045</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestStackAPI - 2019.11.20 at 16h 27m 51s.xml">
-      <configuration name="TestStackAPI" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStackAPI - 2019.11.20 at 16h 28m 11s.xml">
-      <configuration name="TestStackAPI" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStackAPI_countOccurenceTest - 2019.11.21 at 23h 45m 21s.xml">
-      <configuration name="TestStackAPI.countOccurenceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStackAPI_negativeTest - 2019.11.21 at 23h 45m 28s.xml">
-      <configuration name="TestStackAPI.negativeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestStackAPI_hasValueNegativeTest - 2019.11.21 at 23h 45m 36s.xml">
       <configuration name="TestStackAPI.hasValueNegativeTest" configurationId="JUnit" />
     </history-entry>
@@ -364,9 +336,21 @@
     <history-entry file="TestStackAPI_peekNegativeTest - 2019.11.21 at 23h 48m 06s.xml">
       <configuration name="TestStackAPI.peekNegativeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestStackAPI_valueDoesNotExistTest - 2019.11.22 at 11h 48m 40s.xml">
+      <configuration name="TestStackAPI.valueDoesNotExistTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStackAPI_valueDoesNotExistTest - 2019.11.22 at 11h 49m 23s.xml">
+      <configuration name="TestStackAPI.valueDoesNotExistTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStackAPI_valueDoesNotExistTest - 2019.11.22 at 11h 49m 41s.xml">
+      <configuration name="TestStackAPI.valueDoesNotExistTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStackAPI_valueDoesNotExistTest - 2019.11.22 at 11h 50m 28s.xml">
+      <configuration name="TestStackAPI.valueDoesNotExistTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="1288" height="685" extended-state="0" />
+    <frame x="-10" y="0" width="1932" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -374,7 +358,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2512195" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1650641" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -383,7 +367,7 @@
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.07581227" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.38628158" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.33668903" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -417,40 +401,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackApi.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/synchronoss/stack/RunTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/synchronoss/stack/TestStackAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="290">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java">
+    <entry file="file://$PROJECT_DIR$/HowToRun">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="101" lean-forward="true" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/synchronoss/stack/RunTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="867">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
@@ -461,10 +442,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HowToRun">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/synchronoss/stack/StackImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        <state relative-caret-position="680">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

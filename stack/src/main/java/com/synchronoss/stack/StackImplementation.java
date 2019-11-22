@@ -44,17 +44,17 @@ public class StackImplementation implements StackApi {
 
     @Override
     public int count  (String pattern) throws IllegalArgumentException{
-        // This is to check if the pattern to be searched is numeric or not. If not then it throws exception after matching the regex
+        /* This is to check if the pattern to be searched is numeric or not. If not then it throws exception after matching the regex */
         if (!pattern.matches("[0-9]*"))
             throw new IllegalArgumentException("Invalid value - value must be a string of numbers");
-        // integer variable to store the counts when a match is found
+        /* integer variable to store the counts when a match is found */
         int counter = 0 ;
-        // If the pattern is empty then size of stack is returned.
+        /* If the pattern is empty then size of stack is returned. */
         if (pattern.equals(""))
             counter=stackList.size();
         int i=0;
         int stack_size = stackList.size();
-        // loop goes until stack has an element
+        /* loop goes until stack has an element */
         while (stack_size>0)
         {
             if (pattern.equals(stackList.get(i)))
@@ -62,7 +62,7 @@ public class StackImplementation implements StackApi {
                 counter ++;
             }
 
-            //stackList.remove(search); This can also be used but it will start deleting elements from the stack
+            /* stackList.remove(search); This can also be used but it will start deleting elements from the stack */
             i++;
             stack_size--;
         }

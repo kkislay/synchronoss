@@ -2,6 +2,7 @@ This project is done using Gradle.
 Tests have been added to TestStackAPI class
 And I have also created a file called RunTests for running the tests and reporting them.
 For running all the tests in one go, just right click on RunTests and select Run. It shows test run matrix.
+If you individually want to run any test then just right click on the test and select run blahTest().
 
 Changes have been made in StackImplementation.java file into count method.
 It could be done my using this.pop() , but then it will delete the stack.
